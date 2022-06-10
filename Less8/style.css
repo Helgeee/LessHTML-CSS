@@ -34,22 +34,17 @@ img{vertical-align: top;}
 
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
+
 .example-block{
-	/*width: 500px;
-	padding: 20px;
-	margin: 0 10px; 
-
-	overflow:  auto; */
-
-	display: inline-block;
-
-	border: 1px solid #000;
-	margin: 0 0 30px;
+   visibility: hidden;
+   font-style: 50px;
 }
 .example-string{
-	width: 500px;
-	display: block;
+    
+
+	font-style: 50px;
 }
 .example-img{
-	height: 100px;
+	border: 1px dashed #000;
+
 }
